@@ -1,0 +1,7 @@
+{
+  "name": "RutasIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
